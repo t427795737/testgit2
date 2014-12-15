@@ -34,6 +34,9 @@ public class Test31
     {
         // TODO Auto-generated method stub
         System.out.println("-------Test31------");
+        System.out.println("-------Test31------");
+        System.out.println("-------Test31------");
+        System.out.println("-------Test31------");
     }
 
 }
